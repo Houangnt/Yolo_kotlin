@@ -234,7 +234,7 @@ class MainActivity : AppCompatActivity(), Detector.DetectorListener, OnInitListe
                 "Tam_sach" -> "tam sách"
                 "Tam_van" -> "tam vạn"
                 "Tam_vanw" -> "tam văn"
-                "Thang_thang" -> "thắng thăng"
+                "Thang_thang" -> "thang thang"
                 "That_sach" -> "thất sách"
                 "That_van" -> "thất vạn"
                 "That_vanw" -> "thất văn"
